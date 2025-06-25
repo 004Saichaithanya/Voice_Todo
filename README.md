@@ -35,7 +35,7 @@ The project uses the **Web Speech API's SpeechRecognition interface** to listen 
 1. 📥 Download or clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/voice-todo-list.git
+   git clone https://github.com/004Saichaithanya/Voice_Todo.git
    ```
 
 2. 📂 Open the project folder.
@@ -69,7 +69,3 @@ The project uses the **Web Speech API's SpeechRecognition interface** to listen 
 ## 📜 License
 
 This project is open-source and free to use for personal or educational purposes.
-
----
-
-Would you like me to format a GitHub-ready repository structure with this `README.md` and all files too? I can generate that if you’d like 👍
